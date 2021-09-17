@@ -1,0 +1,30 @@
+.login-estilo{
+    text-align: center;
+}
+
+.botones{
+    
+    float: right;
+}
+#nuevo{
+    color: blue;
+}
+a{
+    color: white;
+}
+.titulo{
+    color: white;
+    margin-top: 80px;
+    margin-left: 150px;
+   
+}
+.sub-titulos{
+    color: white;
+    margin-top: 80px;
+    margin-left: 350px;
+}
+@media screen and (max-width: 600px) {
+    .ringht{
+    display:none;
+    }
+    }
